@@ -2,7 +2,7 @@
 
 This is an arduino based robot which uses ultrasonic sensor to avoid obstacles . A motor driver IC and 2 DC motors are used for controlling the movement of the robot. A servo motor is also used. A Bluetooth module is added to control the robot from an android device.
 
-# Objectives of the Project
+# Objectives
 Navigate safely by avoiding obstacles comes ahead.
 
 Detecting the exact path by checking the sensor readings in different angles.
